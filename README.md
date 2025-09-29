@@ -42,3 +42,21 @@ Extra Credit:
 - Create a pull request against this repository
 - In your readme, add screenshots of your results for Puzzles 1, 2 and 3
 - Profit
+
+# My Submission:
+
+**Puzzle 1**:
+
+![puzzle 1](Puzzle%201.png)
+
+**Puzzle 2**:
+
+![puzzle 2](Puzzle%202.png)
+
+**Puzzle 3**:
+
+![puzzle 3](Puzzle%203.png)
+
+**Extra**:
+
+![extra](Simple%20Smooth.png)
